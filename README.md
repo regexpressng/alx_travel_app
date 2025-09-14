@@ -24,8 +24,8 @@ cd alx_travel_app
 
 ### 2️⃣ Create Virtual Environment
 ```bash
-python3 -m venv venv
-source venv/bin/activate   # On Windows use venv\Scripts\activate
+python3 -m venv env
+source venv/bin/activate   
 ```
 
 ### 3️⃣ Install Dependencies
